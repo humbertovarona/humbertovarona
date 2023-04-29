@@ -3,7 +3,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/humbertolvarona/) 
+[![LinkedIn](https://instalatii.utcb.ro/wp-content/uploads/2019/03/linkedin-logo-2-300x300.png)](https://linkedin.com/in/https://www.linkedin.com/in/humbertolvarona/) 
 
 [![ResearchGate](https://instalatii.utcb.ro/wp-content/uploads/2019/03/researchgate-logo-300x300.png)](https://www.researchgate.net/profile/Humberto-Varona-Gonzalez) 
 
