@@ -3,7 +3,11 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/512px-Linkedin_circle.svg.png?20140819083532)|30x30](https://linkedin.com/in/https://www.linkedin.com/in/humbertolvarona/) [![ResearchGate](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png?20201217223315)](https://www.researchgate.net/profile/Humberto-Varona-Gonzalez) [![ORCID](https://orcid.org/assets/vectors/orcid.logo.svg)](https://orcid.org/0000-0001-7405-4827)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/512px-Linkedin_circle.svg.png | width = 30)](https://linkedin.com/in/https://www.linkedin.com/in/humbertolvarona/) 
+
+[![ResearchGate](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png?20201217223315)](https://www.researchgate.net/profile/Humberto-Varona-Gonzalez) 
+
+[![ORCID](https://orcid.org/assets/vectors/orcid.logo.svg)](https://orcid.org/0000-0001-7405-4827)
 
 
 # 💻 Tech Stack:
