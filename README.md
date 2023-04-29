@@ -4,7 +4,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 
 ## 🌐 Socials:
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/120px-Linkedin_icon.svg.png?20110609134306)](https://linkedin.com/in/https://www.linkedin.com/in/humbertolvarona/) 
-[![RG](<img src="https://cdn.iconscout.com/icon/free/png-512/free-researchgate-3628433-3031593.png" width="200" height="200"/>)](https://www.researchgate.net/profile/Humberto-Varona-Gonzalez) 
+[![RG](<img src="https://img2.gratispng.com/20180820/phs/kisspng-logo-researchgate-brand-trademark-5b7af81b2510c8.3543850915347855631518.jpg" width="200" height="200"/>)](https://www.researchgate.net/profile/Humberto-Varona-Gonzalez) 
 [![ORCID](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Orcid.png/120px-Orcid.png?20220924160023)](https://orcid.org/0000-0001-7405-4827)
 
 
