@@ -2,7 +2,7 @@
 A highly skilled data scientist with a PhD in physical oceanography, a master's degree in physical sciences, and a bachelor's degree in computer science. I bring a diverse skillset to my work, with expertise in data sciences, statistics, and mathematical methods, as well as experience in software and hardware development.
 
 
-## 🌐 Socials:
+## 🌐 Social networks:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/120px-Linkedin_icon.svg.png?20110609134306" width=60px Height=60px/>](https://www.linkedin.com/in/humbertolvarona/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Orcid.png/120px-Orcid.png?20220924160023" width60px Height=60px/>](https://orcid.org/0000-0001-7405-4827) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/240px-ResearchGate_icon_SVG.svg.png" width=60px Height=60px/>](https://www.researchgate.net/profile/Humberto-Varona-Gonzalez) [<img src="https://ppghp.unespar.edu.br/imagens/plataforma-lattes-logo.jpg/@@images/e29e9c29-a848-4a8f-a2a5-c16b980326ae.jpeg" width=60px Height=60px/>](http://lattes.cnpq.br/5539248937185854)
 
 
