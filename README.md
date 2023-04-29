@@ -7,7 +7,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 
 [![ResearchGate](https://upload.wikimedia.org/wikipedia/commons/b/bb/ResearchGate_logo_2015.svg)](https://www.researchgate.net/profile/Humberto-Varona-Gonzalez) 
 
-[![ORCID]([https://upload.wikimedia.org/wikipedia/commons/6/60/Orcid.png?20220924160023](https://upload.wikimedia.org/wikipedia/commons/f/f7/Orcid_icon.png))](https://orcid.org/0000-0001-7405-4827)
+[![ORCID](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Orcid.png/120px-Orcid.png?20220924160023)](https://orcid.org/0000-0001-7405-4827)
 
 
 # 💻 Tech Stack:
