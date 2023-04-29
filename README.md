@@ -3,9 +3,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/120px-Linkedin_icon.svg.png?20110609134306)](https://linkedin.com/in/https://www.linkedin.com/in/humbertolvarona/) 
-[![RG](<img src="https://img2.gratispng.com/20180820/phs/kisspng-logo-researchgate-brand-trademark-5b7af81b2510c8.3543850915347855631518.jpg" width="200" height="200"/>)](https://www.researchgate.net/profile/Humberto-Varona-Gonzalez) 
-[![ORCID](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Orcid.png/120px-Orcid.png?20220924160023)](https://orcid.org/0000-0001-7405-4827)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/120px-Linkedin_icon.svg.png?20110609134306" width=75px Height=75px/>](https://linkedin.com/in/https://www.linkedin.com/in/humbertolvarona/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Orcid.png/120px-Orcid.png?20220924160023" width=75px Height=75px/>](https://orcid.org/0000-0001-7405-4827) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/240px-ResearchGate_icon_SVG.svg.png" width=75px Height=75px/>](https://www.researchgate.net/profile/Humberto-Varona-Gonzalez) [<img src="https://ppghp.unespar.edu.br/imagens/plataforma-lattes-logo.jpg/@@images/e29e9c29-a848-4a8f-a2a5-c16b980326ae.jpeg" width=75px Height=75px/>](https://lattes.cnpq.br/5539248937185854)
 
 
 # 💻 Tech Stack:
