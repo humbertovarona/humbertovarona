@@ -3,7 +3,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://instalatii.utcb.ro/wp-content/uploads/2019/03/linkedin-logo-2-300x300.png)](https://linkedin.com/in/https://www.linkedin.com/in/humbertolvarona/) [![ResearchGate](https://instalatii.utcb.ro/wp-content/uploads/2019/03/researchgate-logo-300x300.png)](https://www.researchgate.net/profile/Humberto-Varona-Gonzalez) [![ORCID](https://orcid.org/assets/vectors/orcid.logo.svg)]([https://user-images.githubusercontent.com/14810540/235320866-d32bd21b-8e10-42ca-ac12-2354aeb4a464.png](https://orcid.org/0000-0001-7405-4827)
+[![LinkedIn](https://instalatii.utcb.ro/wp-content/uploads/2019/03/linkedin-logo-2-300x300.png)](https://linkedin.com/in/https://www.linkedin.com/in/humbertolvarona/) [![ResearchGate](https://instalatii.utcb.ro/wp-content/uploads/2019/03/researchgate-logo-300x300.png)](https://www.researchgate.net/profile/Humberto-Varona-Gonzalez) [![ORCID](https://orcid.org/assets/vectors/orcid.logo.svg)](https://orcid.org/0000-0001-7405-4827)
 
 
 # 💻 Tech Stack:
