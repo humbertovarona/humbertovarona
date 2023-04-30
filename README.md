@@ -34,7 +34,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
   </tr>
   <tr>
     <td>
-    <a href="https://www.paypal.com/donate/?hosted_button_id=STQ277FZRQ8FY"><img src="https://aacrimesc.org.br/wp-content/uploads/2017/05/paypal-logo-300x117.png" width=120px Height=40px></a>
+    <a href="https://www.paypal.com/donate/?hosted_button_id=STQ277FZRQ8FY"><img src="https://aacrimesc.org.br/wp-content/uploads/2017/05/paypal-logo-300x117.png" width=120px Height=25px></a>
     </td>
     <td>
     2
