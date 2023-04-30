@@ -37,10 +37,10 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
     [<img src"=https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)"/>](https://www.paypal.com/donate/?hosted_button_id=STQ277FZRQ8FY) 
     </td>
     <td>
-    Maria Anders
+    2
     </td>
     <td>
-    Germany
+    3
     </td>
   </tr>
 </table>
