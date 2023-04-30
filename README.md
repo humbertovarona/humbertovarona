@@ -25,4 +25,25 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=STQ277FZRQ8FY) 
 
+
+<table style="width:100%">
+  <tr>
+    <th>BRL</th>
+    <th>USD</th>
+    <th>EUR</th>
+  </tr>
+  <tr>
+    <td>
+    <img src"=https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)"(https://www.paypal.com/donate/?hosted_button_id=STQ277FZRQ8FY) 
+    </td>
+    <td>
+    Maria Anders
+    </td>
+    <td>
+    Germany
+    </td>
+  </tr>
+</table>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
