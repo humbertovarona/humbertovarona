@@ -16,7 +16,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 ![](https://github-profile-trophy.vercel.app/?username=humbertovarona&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=humbertovarona&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=humbertovarona&limit=10&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=humbertovarona&icon=0&color=0)](https://visitcount.itsvg.in)
