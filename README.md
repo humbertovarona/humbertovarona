@@ -37,10 +37,10 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
     <a href="https://www.paypal.com/donate/?hosted_button_id=STQ277FZRQ8FY"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
     </td>
     <td>
-    <a href="https://www.paypal.com/donate/?hosted_button_id=KZCDJCK75QTPS"><img align="center" src="https://aacrimesc.org.br/wp-content/uploads/2017/05/paypal-logo-300x117.png" width=100px Height=30px/></a>
+    <a href="https://www.paypal.com/donate/?hosted_button_id=KZCDJCK75QTPS"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
     </td>
     <td>
-    <a href=""><img align="center" src="https://aacrimesc.org.br/wp-content/uploads/2017/05/paypal-logo-300x117.png" width=100px Height=30px/></a>
+    <a href=""><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
     </td>
   </tr>
 </table>
