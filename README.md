@@ -34,7 +34,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
   </tr>
   <tr>
     <td>
-    [<img src"=https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)"/>](https://www.paypal.com/donate/?hosted_button_id=STQ277FZRQ8FY) 
+    [<img src="https://logowik.com/content/uploads/images/897_paypal.jpg"/>](https://www.paypal.com/donate/?hosted_button_id=STQ277FZRQ8FY) 
     </td>
     <td>
     2
