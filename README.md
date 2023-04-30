@@ -34,7 +34,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
   </tr>
   <tr>
     <td>
-    [<img src="https://logowik.com/content/uploads/images/897_paypal.jpg"/>](https://www.paypal.com/donate/?hosted_button_id=STQ277FZRQ8FY) 
+    [<img src="https://logowik.com/content/uploads/images/897_paypal.jpg" width=100px Height=20px />](https://www.paypal.com/donate/?hosted_button_id=STQ277FZRQ8FY) 
     </td>
     <td>
     2
