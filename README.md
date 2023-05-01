@@ -40,7 +40,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
     <a href="https://www.paypal.com/donate/?hosted_button_id=KZCDJCK75QTPS"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
     </td>
     <td>
-    <a href=""><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
+    <a href="https://www.paypal.com/donate/?hosted_button_id=XU5K9U6YVFZGY"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
     </td>
   </tr>
 </table>
