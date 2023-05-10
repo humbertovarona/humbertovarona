@@ -170,7 +170,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
     <th>Matlab (Package)</th>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/emdCompare"></a>emdCompare</th>
+    <th><a href="https://github.com/humbertovarona/emdCompare">emdCompare</a></th>
     <th>Software to compare Time Series and their intrinsic mode functions</th>
     <th>Matlab (Package)</th>
   </tr>
