@@ -34,7 +34,42 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
     <th>R</td>
   </tr>
   <tr>
-    <th>Columna 1, fila 36</td>
+    <th><a href=""></a></td>
+    <th>Columna 2, fila 36</td>
+    <th>Columna 3, fila 36</td>
+  </tr>
+  <tr>
+    <th><a href=""></a></td>
+    <th>Columna 2, fila 36</td>
+    <th>Columna 3, fila 36</td>
+  </tr>
+  <tr>
+    <th><a href=""></a></td>
+    <th>Columna 2, fila 36</td>
+    <th>Columna 3, fila 36</td>
+  </tr>
+  <tr>
+    <th><a href=""></a></td>
+    <th>Columna 2, fila 36</td>
+    <th>Columna 3, fila 36</td>
+  </tr>
+  <tr>
+    <th><a href=""></a></td>
+    <th>Columna 2, fila 36</td>
+    <th>Columna 3, fila 36</td>
+  </tr>
+  <tr>
+    <th><a href=""></a></td>
+    <th>Columna 2, fila 36</td>
+    <th>Columna 3, fila 36</td>
+  </tr>
+  <tr>
+    <th><a href=""></a></td>
+    <th>Columna 2, fila 36</td>
+    <th>Columna 3, fila 36</td>
+  </tr>
+  <tr>
+    <th><a href=""></a></td>
     <th>Columna 2, fila 36</td>
     <th>Columna 3, fila 36</td>
   </tr>
