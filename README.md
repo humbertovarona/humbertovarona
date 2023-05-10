@@ -155,6 +155,51 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
     <th>Java (Android APK)</th>
   </tr>
   <tr>
+    <th><a href="https://github.com/humbertovarona/driftViewer">driftViewer</a></th>
+    <th>Software to extract and analyze data from NOAA drifters</th>
+    <th>Matlab (Package)</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/humbertovarona/NCVerticalInterp">NCVerticalInterp</a></th>
+    <th>Vertically interpolates NetCDF files</th>
+    <th>Matlab (Package)</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/humbertovarona/fcNEMOtoStd">fcNEMOtoStd</a></th>
+    <th>Format converter from NEMO model to NetCDF standard</th>
+    <th>Matlab (Package)</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/humbertovarona/emdCompare"></a>emdCompare</th>
+    <th>Software to compare Time Series and their intrinsic mode functions</th>
+    <th>Matlab (Package)</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/humbertovarona/mNC">mNC</a></th>
+    <th>A tool for Oceanographers and Meteorologists to easily create their NetCDF files using Matlab</th>
+    <th>Matlab</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/humbertovarona/CalcPlotAnomaly">CalcPlotAnomaly</a></th>
+    <th>Matlab function set for the calculation and plotting of anomalies</th>
+    <th>Matlab</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/humbertovarona/One4All">One4All</a></th>
+    <th>RS232 Physical Port Extender for Virtual Ports</th>
+    <th>Pascal (Delphi executable)</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/humbertovarona/Net2Serial">Net2Serial</a></th>
+    <th>Network client to forward data to RS232 serial ports</th>
+    <th>Pascal (Delphi executable)</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/humbertovarona/Heat-content">Heat-content</a></th>
+    <th>OHC-FOI: An algorithm for Computing the Ocean Heat Content</th>
+    <th>Matlab</th>
+  </tr>
+  <tr>
     <th><a href=""></a></th>
     <th>Columna 2, fila 36</th>
     <th>Columna 3, fila 36</th>
