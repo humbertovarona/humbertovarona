@@ -102,57 +102,57 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
   <tr>
     <th><a href="https://github.com/humbertovarona/GPSLogger">GPSLogger</a></th>
     <th>GPS Logger with SD card on Arduino</th>
-    <th>Columna 3, fila 36</th>
+    <th>C++ (Arduino)</th>
   </tr>
   <tr>
-    <th><a href=""></a></th>
-    <th>Columna 2, fila 36</th>
-    <th>Columna 3, fila 36</th>
+    <th><a href="https://github.com/humbertovarona/Charge_level_meter">Charge_level_meter</a></th>
+    <th>Charge level meter in 9v batteries with Arduino</th>
+    <th>C++ (Arduino)</th>
   </tr>
   <tr>
-    <th><a href=""></a></th>
-    <th>Columna 2, fila 36</th>
-    <th>Columna 3, fila 36</th>
+    <th><a href="https://github.com/humbertovarona/Pressure_sensor_12Bar">Pressure_sensor_12Bar</a></th>
+    <th>Pressure sensor test with GPS on Arduino</th>
+    <th>C++ (Arduino)</th>
   </tr>
   <tr>
-    <th><a href=""></a></th>
-    <th>Columna 2, fila 36</th>
-    <th>Columna 3, fila 36</th>
+    <th><a href="https://github.com/humbertovarona/AppRuntimeCompute">AppRuntimeCompute</a></th>
+    <th>Application to compute the execution time of a software in a linux or macOS terminal</th>
+    <th>Bash script</th>
   </tr>
   <tr>
-    <th><a href=""></a></th>
-    <th>Columna 2, fila 36</th>
-    <th>Columna 3, fila 36</th>
+    <th><a href="https://github.com/humbertovarona/dlTools">dlTools</a></th>
+    <th>Bash scripts to download files with specific extensions from a website</th>
+    <th>Bash script</th>
   </tr>
   <tr>
-    <th><a href=""></a></th>
-    <th>Columna 2, fila 36</th>
-    <th>Columna 3, fila 36</th>
+    <th><a href="https://github.com/humbertovarona/restoreNC_Chunksizes">restoreNC_Chunksizes</a></th>
+    <th>Restores the Chunk size of NetCDF files</th>
+    <th>Bash script</th>
   </tr>
   <tr>
-    <th><a href=""></a></th>
-    <th>Columna 2, fila 36</th>
-    <th>Columna 3, fila 36</th>
+    <th><a href="https://github.com/humbertovarona/EasyScreen">EasyScreen</a></th>
+    <th>Bash scripts that facilitate the use of the "screen" command through names</th>
+    <th>Bash script</th>
   </tr>
   <tr>
-    <th><a href=""></a></th>
-    <th>Columna 2, fila 36</th>
-    <th>Columna 3, fila 36</th>
+    <th><a href="https://github.com/humbertovarona/conv_Weathering2NC">conv_Weathering2NC</a></th>
+    <th>Software to convert the data of the weathering processes of the PETROMAR-3D model to NetCDF format</th>
+    <th>Python</th>
   </tr>
   <tr>
-    <th><a href=""></a></th>
-    <th>Columna 2, fila 36</th>
-    <th>Columna 3, fila 36</th>
+    <th><a href="https://github.com/humbertovarona/MyLocalIP">MyLocalIP</a></th>
+    <th>Android application for local IPv4 and IPv6 detection</th>
+    <th>Java (Android APK)</th>
   </tr>
   <tr>
-    <th><a href=""></a></th>
-    <th>Columna 2, fila 36</th>
-    <th>Columna 3, fila 36</th>
+    <th><a href="https://github.com/humbertovarona/CalcSeaDensity">CalcSeaDensity</a></th>
+    <th>Computes seawater density from salinity, temperature, and depth</th>
+    <th>Java (Android APK)</th>
   </tr>
   <tr>
-    <th><a href=""></a></th>
-    <th>Columna 2, fila 36</th>
-    <th>Columna 3, fila 36</th>
+    <th><a href="https://github.com/humbertovarona/SaltCompute">SaltCompute</a></th>
+    <th>SaltCompute: Android application to calculate salinity from conductivity and pressure</th>
+    <th>Java (Android APK)</th>
   </tr>
   <tr>
     <th><a href=""></a></th>
