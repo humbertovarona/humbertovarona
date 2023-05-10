@@ -34,39 +34,39 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
     <th>R</td>
   </tr>
   <tr>
-    <th><a href=""></a></td>
-    <th>Columna 2, fila 36</td>
-    <th>Columna 3, fila 36</td>
+    <th><a href="https://github.com/humbertovarona/greg2jul">greg2jul</a></td>
+    <th>Python algorithm to convert a Gregorian date into a Julian date</td>
+    <th>Python</td>
   </tr>
   <tr>
-    <th><a href=""></a></td>
-    <th>Columna 2, fila 36</td>
-    <th>Columna 3, fila 36</td>
+    <th><a href="https://github.com/humbertovarona/viewShapefile">viewShapefile</a></td>
+    <th>View Shapefile and save them to an image</td>
+    <th>Python</td>
   </tr>
   <tr>
-    <th><a href=""></a></td>
-    <th>Columna 2, fila 36</td>
-    <th>Columna 3, fila 36</td>
+    <th><a href="https://github.com/humbertovarona/resizeImage">resizeImage</a></td>
+    <th>Resize images by changing their resolution and dimensions</td>
+    <th>Python</td>
+  </tr>
+    <tr>
+    <th><a href="https://github.com/humbertovarona/videoAnimator">videoAnimator</a></td>
+    <th>Create animations from images</td>
+    <th>Python</td>
   </tr>
   <tr>
-    <th><a href=""></a></td>
-    <th>Columna 2, fila 36</td>
-    <th>Columna 3, fila 36</td>
+    <th><a href="https://github.com/humbertovarona/cleanCOMMENT">cleanCOMMENT</a></td>
+    <th>Package source code by removing comments and blank lines</td>
+    <th>Python</td>
   </tr>
   <tr>
-    <th><a href=""></a></td>
-    <th>Columna 2, fila 36</td>
-    <th>Columna 3, fila 36</td>
+    <th><a href="https://github.com/humbertovarona/fjul2greg">fjul2greg</a></td>
+    <th>Fortran 90 subrutine to convert a Julian date into a Gregorian date </td>
+    <th>Fortran 90</td>
   </tr>
   <tr>
-    <th><a href=""></a></td>
-    <th>Columna 2, fila 36</td>
-    <th>Columna 3, fila 36</td>
-  </tr>
-  <tr>
-    <th><a href=""></a></td>
-    <th>Columna 2, fila 36</td>
-    <th>Columna 3, fila 36</td>
+    <th><a href="https://github.com/humbertovarona/fgreg2jul">fgreg2jul</a></td>
+    <th>Fortran 90 subrutine to convert a Gregorian date into a Julian date </td>
+    <th>Fortran 90</td>
   </tr>
   <tr>
     <th><a href=""></a></td>
