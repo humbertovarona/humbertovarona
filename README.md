@@ -22,56 +22,142 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 [![](https://visitcount.itsvg.in/api?id=humbertovarona&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
+## Repository list
 <table style="width:100%">
   <tr>
-    <th>Repository name</td>
-    <th>Description</td>
-    <th>Language</td>
+    <th>Repository name</th>
+    <th>Description</th>
+    <th>Language</th>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/R_bargraph">R_bargraph</a></td>
-    <th>Plot and save a bar graph highlighting the minimum and maximum values</td>
-    <th>R</td>
+    <th><a href="https://github.com/humbertovarona/R_bargraph">R_bargraph</a></th>
+    <th>Plot and save a bar graph highlighting the minimum and maximum values</th>
+    <th>R</th>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/greg2jul">greg2jul</a></td>
-    <th>Python algorithm to convert a Gregorian date into a Julian date</td>
-    <th>Python</td>
+    <th><a href="https://github.com/humbertovarona/greg2jul">greg2jul</a></th>
+    <th>Python algorithm to convert a Gregorian date into a Julian date</th>
+    <th>Python</th>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/viewShapefile">viewShapefile</a></td>
-    <th>View Shapefile and save them to an image</td>
-    <th>Python</td>
+    <th><a href="https://github.com/humbertovarona/viewShapefile">viewShapefile</a></th>
+    <th>View Shapefile and save them to an image</th>
+    <th>Python</th>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/resizeImage">resizeImage</a></td>
-    <th>Resize images by changing their resolution and dimensions</td>
-    <th>Python</td>
+    <th><a href="https://github.com/humbertovarona/resizeImage">resizeImage</a></th>
+    <th>Resize images by changing their resolution and dimensions</th>
+    <th>Python</th>
   </tr>
     <tr>
-    <th><a href="https://github.com/humbertovarona/videoAnimator">videoAnimator</a></td>
-    <th>Create animations from images</td>
-    <th>Python</td>
+    <th><a href="https://github.com/humbertovarona/videoAnimator">videoAnimator</a></th>
+    <th>Create animations from images</th>
+    <th>Python</th>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/cleanCOMMENT">cleanCOMMENT</a></td>
-    <th>Package source code by removing comments and blank lines</td>
-    <th>Python</td>
+    <th><a href="https://github.com/humbertovarona/cleanCOMMENT">cleanCOMMENT</a></th>
+    <th>Package source code by removing comments and blank lines</th>
+    <th>Python</th>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/fjul2greg">fjul2greg</a></td>
-    <th>Fortran 90 subrutine to convert a Julian date into a Gregorian date </td>
-    <th>Fortran 90</td>
+    <th><a href="https://github.com/humbertovarona/fjul2greg">fjul2greg</a></th>
+    <th>Fortran 90 subrutine to convert a Julian date into a Gregorian date </th>
+    <th>Fortran 90</th>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/fgreg2jul">fgreg2jul</a></td>
-    <th>Fortran 90 subrutine to convert a Gregorian date into a Julian date </td>
-    <th>Fortran 90</td>
+    <th><a href="https://github.com/humbertovarona/fgreg2jul">fgreg2jul</a></th>
+    <th>Fortran 90 subrutine to convert a Gregorian date into a Julian date </th>
+    <th>Fortran 90</th>
   </tr>
   <tr>
-    <th><a href=""></a></td>
-    <th>Columna 2, fila 36</td>
-    <th>Columna 3, fila 36</td>
+    <th><a href="https://github.com/humbertovarona/jul2greg">jul2greg</a></th>
+    <th>Python algorithm to convert a Julian date into a Gregorian date</th>
+    <th>Python</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/humbertovarona/GPS-NEO7M">GPS-NEO7M</a></th>
+    <th>Use of GPS NEO7M module on Arduino</th>
+    <th>C++ (Arduino)</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/humbertovarona/Screen16x2">Screen16x2</a></th>
+    <th>Simple tests with Screen 16x2 and random numbers</th>
+    <th>C++ (Arduino)</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/humbertovarona/Adafruit_BME280">Adafruit_BME280</a></th>
+    <th>Testing with the Adafruit BME280 shield on Arduino</th>
+    <th>C++ (Arduino)</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/humbertovarona/ArduinoWebServer_W5100">ArduinoWebServer_W5100</a></th>
+    <th>Arduino WebServer with W5100 shield</th>
+    <th>C++ (Arduino)</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/humbertovarona/LDRsensor">LDRsensor</a></th>
+    <th>LDR with LCD screen 16x2 on Arduino</th>
+    <th>C++ (Arduino)</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/humbertovarona/GPSLogger">GPSLogger</a></th>
+    <th>GPS Logger with SD card on Arduino</th>
+    <th>Columna 3, fila 36</th>
+  </tr>
+  <tr>
+    <th><a href=""></a></th>
+    <th>Columna 2, fila 36</th>
+    <th>Columna 3, fila 36</th>
+  </tr>
+  <tr>
+    <th><a href=""></a></th>
+    <th>Columna 2, fila 36</th>
+    <th>Columna 3, fila 36</th>
+  </tr>
+  <tr>
+    <th><a href=""></a></th>
+    <th>Columna 2, fila 36</th>
+    <th>Columna 3, fila 36</th>
+  </tr>
+  <tr>
+    <th><a href=""></a></th>
+    <th>Columna 2, fila 36</th>
+    <th>Columna 3, fila 36</th>
+  </tr>
+  <tr>
+    <th><a href=""></a></th>
+    <th>Columna 2, fila 36</th>
+    <th>Columna 3, fila 36</th>
+  </tr>
+  <tr>
+    <th><a href=""></a></th>
+    <th>Columna 2, fila 36</th>
+    <th>Columna 3, fila 36</th>
+  </tr>
+  <tr>
+    <th><a href=""></a></th>
+    <th>Columna 2, fila 36</th>
+    <th>Columna 3, fila 36</th>
+  </tr>
+  <tr>
+    <th><a href=""></a></th>
+    <th>Columna 2, fila 36</th>
+    <th>Columna 3, fila 36</th>
+  </tr>
+  <tr>
+    <th><a href=""></a></th>
+    <th>Columna 2, fila 36</th>
+    <th>Columna 3, fila 36</th>
+  </tr>
+  <tr>
+    <th><a href=""></a></th>
+    <th>Columna 2, fila 36</th>
+    <th>Columna 3, fila 36</th>
+  </tr>
+  <tr>
+    <th><a href=""></a></th>
+    <th>Columna 2, fila 36</th>
+    <th>Columna 3, fila 36</th>
   </tr>
 </table>
 
