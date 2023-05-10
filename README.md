@@ -200,9 +200,14 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
     <th>Matlab</th>
   </tr>
   <tr>
-    <th><a href=""></a></th>
-    <th>Columna 2, fila 36</th>
-    <th>Columna 3, fila 36</th>
+    <th><a href="https://github.com/humbertovarona/compBuoy">compBuoy</a></th>
+    <th>Software for the validation of vertical profiles of oceanic parameters</th>
+    <th>Matlab (Package)</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/humbertovarona/vRivers"></a>vRivers</th>
+    <th>Software for data analysis of Brazilian rivers (vRivers)</th>
+    <th>Matlab (Package)</th>
   </tr>
 </table>
 
