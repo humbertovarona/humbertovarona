@@ -205,7 +205,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
     <th>Matlab (Package)</th>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/vRivers"></a>vRivers</th>
+    <th><a href="https://github.com/humbertovarona/vRivers">vRivers</a></th>
     <th>Software for data analysis of Brazilian rivers (vRivers)</th>
     <th>Matlab (Package)</th>
   </tr>
