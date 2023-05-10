@@ -22,21 +22,21 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 [![](https://visitcount.itsvg.in/api?id=humbertovarona&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-<table width="100%">
+<table style="width:100%">
   <tr>
-    <td>Repository name</td>
-    <td>Description</td>
-    <td>Language</td>
+    <th>Repository name</td>
+    <th>Description</td>
+    <th>Language</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/humbertovarona/R_bargraph">R_bargraph</a></td>
-    <td>Plot and save a bar graph highlighting the minimum and maximum values</td>
-    <td>R</td>
+    <th><a href="https://github.com/humbertovarona/R_bargraph">R_bargraph</a></td>
+    <th>Plot and save a bar graph highlighting the minimum and maximum values</td>
+    <th>R</td>
   </tr>
   <tr>
-    <td>Columna 1, fila 36</td>
-    <td>Columna 2, fila 36</td>
-    <td>Columna 3, fila 36</td>
+    <th>Columna 1, fila 36</td>
+    <th>Columna 2, fila 36</td>
+    <th>Columna 3, fila 36</td>
   </tr>
 </table>
 
