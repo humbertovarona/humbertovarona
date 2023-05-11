@@ -23,7 +23,8 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 
 ---
 ## Repository list
-<table style="width:100%">
+<div style="overflow-x: auto;">
+<table>
   <tr>
     <th>Repository name</th>
     <th>Description</th>
@@ -210,6 +211,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
     <th>Matlab (Package)</th>
   </tr>
 </table>
+</div>
 
 ---
 ## 💰 You can help me by Donating
