@@ -24,7 +24,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 ---
 ## Repository list
 <div style="overflow-x: auto;">
-<table>
+<table style="width:100%">
   <tr>
     <th>Repository name</th>
     <th>Description</th>
