@@ -239,19 +239,6 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 </div>
 
 ---
-## Repositories sorted by years
-
-<div style="overflow-x: auto;">
-<table style="width:100%">
-  <tr>
-    <th><a href="https://github.com/humbertovarona?tab=overview&from=2021-01-01&to=2021-12-31">2021</a></th>
-    <th><a href="https://github.com/humbertovarona?tab=overview&from=2022-01-01&to=2022-12-31">2022</a></th>
-    <th><a href="https://github.com/humbertovarona?tab=overview&from=2023-01-01&to=2023-12-31">2023</a></th>
-  </tr>
-</table>
-</div>
-
----
 ## 💰 You can help me by Donating
 
 ## Investing in software development is investing in the future. Donate now and help create innovative technology solutions.
