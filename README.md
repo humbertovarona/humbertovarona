@@ -11,15 +11,16 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=humbertovarona&theme=dark&hide_border=false)</br>
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=humbertovarona&theme=dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertovarona&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=12"/>
+<img lign="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=humbertovarona&theme=dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=false"/>
+<img lign="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertovarona&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=12"/>
 </div>
-  
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=humbertovarona&theme=onedark&margin-w=15&margin-h=15&row=2&column=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=humbertovarona&limit=10&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=humbertovarona&limit=7&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=humbertovarona&icon=0&color=0)](https://visitcount.itsvg.in)
