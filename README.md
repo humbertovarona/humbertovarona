@@ -109,6 +109,11 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
     <th>Fortran 90</th>
   </tr>
   <tr>
+    <th><a href="https://github.com/humbertovarona/simple_TicTacToe">simple_TicTacToe</a></th>
+    <th>A simple example of Tic Tac Toe in Java language (Apache Netbean project)</th>
+    <th>Java</th>
+  </tr>
+  <tr>
     <th><a href="https://github.com/humbertovarona/jul2greg">jul2greg</a></th>
     <th>Python algorithm to convert a Julian date into a Gregorian date</th>
     <th>Python</th>
