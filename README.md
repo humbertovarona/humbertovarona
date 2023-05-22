@@ -45,6 +45,11 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
     <th>Java (Processing)</th>
   </tr>
   <tr>
+    <th><a href="https://github.com/humbertovarona/UnitConversions">UnitConversions</a></th>
+    <th>Java Student Demo, Case Study: UnitConverterApp</th>
+    <th>Java</th>
+  </tr>
+  <tr>
     <th><a href="https://github.com/humbertovarona/ChgImgColor">ChgImgColor</a></th>
     <th>Changing colors in images</th>
     <th>Python</th>
