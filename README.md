@@ -10,7 +10,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 
 ## Programming languages
 
-<img src="https://img.icons8.com/?size=512&id=TpULddJc4gTh&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=13679&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=13441&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=55311&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=9MJf0ngDwS8z&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=uADJvOMNIZPu&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=CLvQeiwFpit4&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=7I3BjCqe9rjG&format=png" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_fortran_icon_130596.png" width="50"/> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/octave_94226.png" width="50"/>
+<img src="https://img.icons8.com/?size=512&id=TpULddJc4gTh&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=13679&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=13441&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=55311&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=9MJf0ngDwS8z&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=uADJvOMNIZPu&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=CLvQeiwFpit4&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=7I3BjCqe9rjG&format=png" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_fortran_icon_130596.png" width="50"/> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/octave_94226.png" width="50"/>
 
 ## Operating systems
 
@@ -22,7 +22,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 
 ## Services administration
 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"/>
 
 ## Hardware development
 
@@ -30,7 +30,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 
 ## Others skills
 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/> <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_latex_tex_icon_161289.png" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50"/>
 
 # 📊 Github Statistics:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=humbertovarona&theme=dark&hide_border=false)</br>
