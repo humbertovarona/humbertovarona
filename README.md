@@ -36,8 +36,8 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=humbertovarona&theme=dark&hide_border=false)</br>
 
 <div>
-<a href=""><img lign="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=humbertovarona&theme=dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=false"/></a>
-<a href=""><img lign="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=humbertovarona&langs_count=12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&size_weight=0.5&count_weight=0.5&layout=compact"/></a>
+<a href=""><img lign="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=humbertovarona&theme=dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=false"/></a>
+<a href=""><img lign="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertovarona&langs_count=12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&size_weight=0.5&count_weight=0.5&layout=compact"/></a>
 </div>
 
 
