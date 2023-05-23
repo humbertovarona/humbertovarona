@@ -18,7 +18,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 
 ## Databases
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> <img src="https://img.icons8.com/?size=512&id=DakakaPez2uy&format=png" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/> <img src="[https://simpleicons.org/icons/apachecassandra.svg](https://icons-for-free.com/iconfiles/png/512/apache+cassandra-1330884263879145214.png)" width="50"/> <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> <img src="https://img.icons8.com/?size=512&id=DakakaPez2uy&format=png" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_cassandra_logo_icon_170572.png" width="50"/> <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" width="50"/>
 
 ## Services administration
 
