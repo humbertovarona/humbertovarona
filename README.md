@@ -26,7 +26,7 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 
 ## Hardware development
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50"/> <img src="https://icons-for-free.com/iconfiles/png/512/Adafruit-1329545812834104060.png" width="50"/> <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/esphome_logo_icon_248927.png" width="50"/>
 
 ## Others skills
 
