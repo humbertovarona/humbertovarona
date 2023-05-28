@@ -60,6 +60,11 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
     <th>Language</th>
   </tr>
   <tr>
+    <th><a href="https://github.com/humbertovarona/finitediff">finitediff</a></th>
+    <th><Computes the derivatives in X and Y from a regular grid using finite differences/th>
+    <th>Python</th>
+  </tr>
+  <tr>
     <th><a href="https://github.com/humbertovarona/SciFig">SciFig</a></th>
     <th>Software to compose figures for scientific articles</th>
     <th>Python</th>
