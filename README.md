@@ -10,6 +10,8 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 
 [Click here to go to my portfolio](https://github.com/humbertovarona/Portfolio)
 
+[<img src="https://img.icons8.com/?size=512&id=naDnVpQ3BNkR&format=png" width=60px Height=60px alt = "Click here to go to my portfolio"/>](https://github.com/humbertovarona/Portfolio)
+
 # 📊 Github Statistics:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=humbertovarona&theme=dark&hide_border=false)</br>
 
