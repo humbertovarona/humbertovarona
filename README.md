@@ -6,31 +6,9 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 ## 🌐 Social networks:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/120px-Linkedin_icon.svg.png?20110609134306" width=60px Height=60px/>](https://www.linkedin.com/in/humbertolvarona/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Orcid.png/120px-Orcid.png?20220924160023" width60px Height=60px/>](https://orcid.org/0000-0001-7405-4827) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/240px-ResearchGate_icon_SVG.svg.png" width=60px Height=60px/>](https://www.researchgate.net/profile/Humberto-Varona-Gonzalez) [<img src="https://d4.alternativeto.net/mwdqL5rzsWH8QOT2a3oQ0VrgwtuUhMPTk5i2klKJy-o/rs:fill:140:140:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9nb29nbGUtc2Nob2xhcl8xODAwMDEucG5n.png" width=60px Height=60px/>](https://scholar.google.com/citations?view_op=list_works&hl=pt-BR&hl=pt-BR&user=QOQCC6AAAAAJ&pagesize=80) [<img src="https://ppghp.unespar.edu.br/imagens/plataforma-lattes-logo.jpg/@@images/e29e9c29-a848-4a8f-a2a5-c16b980326ae.jpeg" width=60px Height=60px/>](http://lattes.cnpq.br/5539248937185854) 
 
-# 💻 Tech Skills:
+# 💻 Portfolio:
 
-## Programming languages
 
-<img src="https://img.icons8.com/?size=512&id=TpULddJc4gTh&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=13679&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=13441&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=55311&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=9MJf0ngDwS8z&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=uADJvOMNIZPu&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=CLvQeiwFpit4&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=7I3BjCqe9rjG&format=png" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_fortran_icon_130596.png" width="50"/> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/octave_94226.png" width="50"/>
-
-## Operating systems
-
-<img src="https://img.icons8.com/?size=512&id=17842&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=122959&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=17836&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=79089&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=108792&format=png" width="50"/> 
-
-## Databases
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> <img src="https://img.icons8.com/?size=512&id=DakakaPez2uy&format=png" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_cassandra_logo_icon_170572.png" width="50"/> <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" width="50"/>
-
-## Services administration
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"/>
-
-## Hardware development
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50"/> <img src="https://icons-for-free.com/iconfiles/png/512/Adafruit-1329545812834104060.png" width="50"/> <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/esphome_logo_icon_248927.png" width="50"/>
-
-## Others skills
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/> <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_latex_tex_icon_161289.png" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50"/>
 
 # 📊 Github Statistics:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=humbertovarona&theme=dark&hide_border=false)</br>
